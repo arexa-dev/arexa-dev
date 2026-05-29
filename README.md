@@ -1,315 +1,354 @@
 <div align="center">
 
-<img src="./assets/banner.png" alt="Arexa Banner" width="100%">
+<img src="./assets/hero-banner.png" alt="AREXA" width="100%" />
+
+<br />
 
 # AREXA
 
-### Building Immersive Digital Experiences for the Next Generation of Brands
+### Building the Future of Immersive Technology
 
-Official Snap AR Partner • XR Studio • WebAR • CGI • Virtual Try-On • Spatial Computing
+Official Snap AR Partner • Augmented Reality • WebAR • CGI • Virtual Try-On • Spatial Computing • AI Experiences
 
 <p align="center">
+  <a href="https://arexa.co">
+    <img src="https://img.shields.io/badge/Website-arexa.co-black?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/company/arexa-xr">
+    <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge" />
+  </a>
+  <a href="mailto:hello@arexa.co">
+    <img src="https://img.shields.io/badge/Contact-Business-success?style=for-the-badge" />
+  </a>
+</p>
 
-<a href="https://arexa.co">
-<img src="https://img.shields.io/badge/Website-Arexa-black?style=for-the-badge">
-</a>
-
-<a href="https://www.linkedin.com/company/arexa-xr">
-<img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge">
-</a>
-
-<a href="https://github.com/Arexa">
-<img src="https://img.shields.io/github/stars/Arexa?style=for-the-badge">
-</a>
-
+<p align="center">
+Creating immersive digital experiences that connect brands, products, and people through next-generation technologies.
 </p>
 
 </div>
 
 ---
 
-# 🚀 About Arexa
+## About Arexa
 
-Arexa is an immersive technology company focused on Augmented Reality, WebAR, CGI, Virtual Try-On, and Spatial Computing experiences.
+Arexa is a global immersive technology company focused on building interactive experiences through Augmented Reality, WebAR, CGI, Virtual Try-On, Artificial Intelligence, and Spatial Computing.
 
-We help brands create interactive digital experiences that increase engagement, improve customer experiences, and unlock new forms of storytelling.
+We work with startups, enterprises, agencies, educational institutions, and global brands to transform traditional digital interactions into engaging immersive experiences.
 
-Our mission is to bridge the gap between imagination and interaction through cutting-edge XR technologies.
+Our mission is simple:
+
+> Make immersive technology accessible, impactful, and scalable for businesses worldwide.
 
 ---
 
-# 📊 Impact
+## Our Vision
+
+We believe the future of digital interaction will be immersive, intelligent, and spatial.
+
+As technology evolves beyond traditional screens, Arexa is building solutions that help organizations leverage the power of XR, AI, and real-time 3D technologies to create meaningful customer experiences.
+
+---
+
+## At a Glance
+
+| Area | Focus |
+|--------|--------|
+| Industry | Immersive Technology |
+| Expertise | AR, XR, WebAR, CGI, AI |
+| Delivery | Global |
+| Partner Ecosystem | Technology & Community Partners |
+| Solutions | Enterprise, Brand, Education, Commerce |
+| Open Source | Developer Tools & Community Projects |
+
+---
+
+## Core Capabilities
+
+### Augmented Reality
+
+Developing immersive AR experiences for brands, events, education, commerce, and entertainment.
+
+### WebAR
+
+Deploying browser-based augmented reality experiences accessible without app downloads.
+
+### CGI & 3D Production
+
+Creating photorealistic product renders, visual storytelling assets, animations, and digital experiences.
+
+### Virtual Try-On
+
+Building interactive product visualization systems for fashion, beauty, eyewear, accessories, and retail.
+
+### AI-Powered Experiences
+
+Combining artificial intelligence with immersive technologies to unlock intelligent user interactions.
+
+### Spatial Computing
+
+Designing next-generation experiences that blend physical and digital environments.
+
+---
+
+## Solutions We Build
+
+- Branded AR Campaigns
+- Interactive Product Experiences
+- Virtual Try-On Platforms
+- Immersive Commerce Experiences
+- WebAR Activations
+- Product Visualization Systems
+- Event Engagement Solutions
+- Educational XR Experiences
+- AI-Powered Interactive Applications
+- Enterprise XR Solutions
+
+---
+
+## Technology Ecosystem
 
 <div align="center">
 
-| Metric | Value |
-|----------|----------|
-| Global Reach | 20+ Countries |
-| AR Experiences Built | 100+ |
-| Brand Campaigns | 50+ |
-| Community Members | 10,000+ |
-| Industry Partners | Multiple Global Brands |
+<img src="./assets/technology-ecosystem.png" width="100%" alt="Technology Ecosystem" />
 
 </div>
 
----
-
-# 🌐 Core Solutions
-
-## Augmented Reality
-
-<img src="./assets/ar-showcase.png" width="100%">
-
-- Snapchat Lenses
-- Instagram Effects
-- TikTok Effects
-- Interactive Campaigns
-- Event Activations
-
----
-
-## WebAR
-
-<img src="./assets/webar-showcase.png" width="100%">
-
-- Browser-Based AR
-- QR Activated Experiences
-- Product Visualization
-- Interactive Commerce
-- Immersive Landing Pages
-
----
-
-## CGI & 3D Production
-
-<img src="./assets/cgi-showcase.png" width="100%">
-
-- Product CGI
-- Motion Graphics
-- 3D Product Visuals
-- Digital Twins
-- Marketing Assets
-
----
-
-## Virtual Try-On
-
-<img src="./assets/vto-showcase.png" width="100%">
-
-- Fashion
-- Eyewear
-- Beauty
-- Jewelry
-- Accessories
-
----
-
-# 🛠 Technology Ecosystem
-
-<div align="center">
-
-<img src="./assets/tech-stack.png" width="100%">
-
-</div>
-
-## Frontend
+### Frontend
 
 - React
 - Next.js
 - TypeScript
 - Three.js
-- TailwindCSS
+- Tailwind CSS
 
-## XR & AR
+### XR & Immersive Technologies
 
 - Lens Studio
 - WebXR
-- Unity
-- Unreal Engine
 - AR.js
 - MindAR
+- Unity
+- Unreal Engine
 
-## Backend
+### Backend
 
 - Node.js
-- Express
+- Express.js
 - FastAPI
 - Python
 
-## Cloud
+### Infrastructure
 
 - AWS
-- Vercel
 - Cloudflare
 - Docker
+- Vercel
 
-## AI
+### Artificial Intelligence
 
 - OpenAI
 - Computer Vision
-- Generative AI
 - Machine Learning
+- Generative AI
+- NLP Systems
 
 ---
 
-# 💼 Featured Capabilities
-
-## Brand Activations
-
-Immersive experiences designed for product launches, campaigns, and audience engagement.
-
----
-
-## Spatial Commerce
-
-Transform product discovery into interactive customer experiences.
-
----
-
-## AI + XR
-
-Combining artificial intelligence with immersive technologies to create next-generation experiences.
-
----
-
-# 🏢 Industries We Serve
+## Industries We Serve
 
 <div align="center">
 
 | Retail | Fashion | Beauty |
 |----------|----------|----------|
-| Automotive | Real Estate | Healthcare |
-| Education | Entertainment | Events |
-| Luxury | E-Commerce | Technology |
+| Automotive | Real Estate | Education |
+| Healthcare | Entertainment | Technology |
+| E-Commerce | Luxury | Events |
 
 </div>
 
 ---
 
-# 🔥 Featured Projects
+## Featured Areas
 
 <div align="center">
 
-<img src="./assets/project-1.png" width="30%">
-<img src="./assets/project-2.png" width="30%">
-<img src="./assets/project-3.png" width="30%">
+<img src="./assets/ar-experiences.png" width="30%" />
+<img src="./assets/webar-platforms.png" width="30%" />
+<img src="./assets/virtual-tryon.png" width="30%" />
 
 </div>
 
-### AR Campaigns
+### AR Experiences
 
-Innovative augmented reality experiences for modern brands.
+Interactive experiences built for engagement, storytelling, and customer participation.
+
+### WebAR Platforms
+
+Cross-platform browser-based immersive solutions.
 
 ### Virtual Try-On
 
-Interactive retail experiences that improve conversion and engagement.
+Next-generation digital commerce experiences.
 
-### WebAR Experiences
+### CGI Production
 
-No-app immersive experiences accessible directly from the browser.
+High-fidelity visual content for campaigns and product launches.
+
+### AI + XR
+
+Combining intelligence with immersion.
 
 ---
 
-# 🌍 Open Source at Arexa
+## Open Source
 
-We believe innovation grows through collaboration.
+Innovation grows through collaboration.
 
-This GitHub organization contains:
+Through our GitHub organization, we actively support:
 
-- Open Source Projects
-- Experimental XR Research
-- WebAR Frameworks
+- XR Research Projects
+- Open Source Libraries
 - Developer Tools
-- Community Resources
-- Educational Content
+- Educational Resources
+- Experimental Prototypes
+- Community Initiatives
+- Emerging Technology Exploration
 
-We actively encourage contributions from developers, designers, creators, and researchers.
-
----
-
-# 🤝 Partner Ecosystem
-
-<div align="center">
-
-<img src="./assets/partners.png" width="100%">
-
-</div>
-
-Working alongside global technology platforms, communities, and innovation partners to accelerate immersive adoption.
+We welcome contributions from developers, creators, designers, technical artists, researchers, and innovators.
 
 ---
 
-# 👥 Community
+## Community & Ecosystem
 
-Our ecosystem includes:
+Arexa collaborates with a growing global network of:
 
-- XR Developers
-- AR Creators
+- Developers
+- XR Engineers
 - Technical Artists
-- 3D Designers
-- AI Engineers
-- Creative Technologists
-- Students & Innovators
+- Designers
+- AI Researchers
+- Community Leaders
+- Students
+- Startups
+- Enterprise Teams
+
+Through workshops, hackathons, research initiatives, open-source projects, and educational programs, we help accelerate the adoption of immersive technologies worldwide.
 
 ---
 
-# 📚 Resources
+## Why Arexa
 
-- Documentation
-- Tutorials
-- Workshops
-- Community Events
-- Research Publications
+✓ Immersive Technology Expertise
 
----
+✓ Enterprise-Oriented Solutions
 
-# 🎯 Why Arexa
+✓ Cross-Platform Development
 
-✅ Enterprise-grade delivery
+✓ AI + XR Integration
 
-✅ Immersive-first mindset
+✓ Global Collaboration Network
 
-✅ Cross-platform XR expertise
+✓ Open Innovation Approach
 
-✅ AI-powered innovation
+✓ Community-Driven Growth
 
-✅ Rapid prototyping & deployment
-
-✅ Global collaboration network
+✓ Future-Focused Technology Strategy
 
 ---
 
-# 🤝 Contributing
+## Repository Structure
 
-We welcome contributions from the community.
-
-```bash
-# Fork repository
-# Create feature branch
-# Commit changes
-# Submit pull request
+```text
+.
+├── apps/
+├── products/
+├── research/
+├── experiments/
+├── community/
+├── docs/
+├── assets/
+└── open-source/
 ```
 
-Please read our CONTRIBUTING.md before opening issues or pull requests.
+---
+
+## Contributing
+
+We welcome meaningful contributions.
+
+Please review our contribution guidelines before submitting pull requests, feature requests, or issues.
+
+```bash
+# Fork Repository
+
+# Create Feature Branch
+git checkout -b feature/new-feature
+
+# Commit Changes
+git commit -m "Add new feature"
+
+# Push Branch
+git push origin feature/new-feature
+
+# Create Pull Request
+```
 
 ---
 
-# 📬 Contact
+## Careers
 
-Website: https://arexa.co
+We are always interested in meeting exceptional people working in:
 
-Email: hello@arexa.co
+- XR Development
+- AR Engineering
+- AI Engineering
+- Product Design
+- Technical Art
+- Frontend Engineering
+- 3D Design
+- Creative Technology
 
-LinkedIn: https://linkedin.com/company/arexa-xr
+If you are passionate about immersive technology, we would love to hear from you.
 
-Instagram: https://instagram.com/arexa.xr
+---
+
+## Connect With Us
+
+<table>
+<tr>
+<td><strong>Website</strong></td>
+<td>https://arexa.co</td>
+</tr>
+
+<tr>
+<td><strong>Email</strong></td>
+<td>hello@arexa.co</td>
+</tr>
+
+<tr>
+<td><strong>LinkedIn</strong></td>
+<td>https://linkedin.com/company/arexa-xr</td>
+</tr>
+
+<tr>
+<td><strong>Instagram</strong></td>
+<td>https://instagram.com/arexa.xr</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-### Building The Future Of Immersive Technology
+<img src="./assets/footer-banner.png" width="100%" />
 
-Made with ❤️ by the Arexa Team
+### AREXA
+
+Building the Future of Immersive Technology
+
+*Immersive Experiences • Spatial Computing • AI-Powered Innovation*
+
+© 2026 Arexa. All Rights Reserved.
 
 </div>
