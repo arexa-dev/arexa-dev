@@ -8,139 +8,110 @@
 
 ### Building the Future of Immersive Technology
 
-#### Official Snap AR Partner Delivering Augmented Reality, WebAR, CGI, Virtual Try-On, AI-Powered Experiences, and Spatial Computing Solutions
+#### Official Snap AR Partner Delivering Augmented Reality, WebAR, CGI, Virtual Try-On, Artificial Intelligence, and Spatial Computing Solutions for Brands, Enterprises, Startups, and Global Communities
 
 <br>
 
 <p align="center">
 
 <a href="https://arexa.co">
-  <img src="https://img.shields.io/badge/Website-AREXA-000000?style=for-the-badge&logo=googlechrome&logoColor=white">
+<img src="https://img.shields.io/badge/Website-AREXA-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/company/arexa-xr">
-  <img src="https://img.shields.io/badge/LinkedIn-AREXA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-AREXA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:hello@arexa.co">
-  <img src="https://img.shields.io/badge/Business_Inquiries-Contact-00C853?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Business_Inquiries-Contact-00C853?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/Arexa">
+<img src="https://img.shields.io/github/followers/Arexa?style=for-the-badge" />
 </a>
 
 </p>
 
 <br>
 
-**AR Development • WebAR Experiences • CGI Production • Virtual Try-On Solutions • AI Experiences • Spatial Computing • XR Innovation**
+<img src="./assets/partner-strip.svg" width="100%" />
+
+<br>
+
+### Creating Immersive Digital Experiences That Connect Brands, Products, and People
+
+From interactive AR campaigns and browser-based WebAR experiences to AI-powered immersive platforms and enterprise XR solutions, Arexa helps organizations transform traditional digital engagement into meaningful interactive experiences.
 
 </div>
 
 ---
 
-## Shaping the Future of Human Interaction
+# Shaping The Next Era Of Digital Interaction
 
-### Creating Immersive Digital Experiences That Connect Brands, Products, and People
+### Combining Creativity, Engineering, and Emerging Technologies To Build Experiences Designed For The Future
 
-Arexa is a global immersive technology company specializing in **Augmented Reality Development, WebAR Solutions, CGI Production, Virtual Try-On Experiences, Artificial Intelligence, and Spatial Computing.**
+Arexa is a global immersive technology company focused on Augmented Reality, WebAR, CGI Production, Virtual Try-On Platforms, Artificial Intelligence, and Spatial Computing.
 
-As an **Official Snap AR Partner**, we help brands, enterprises, startups, educational institutions, and technology ecosystems transform traditional digital engagement into interactive experiences designed for the next generation of users.
+As an Official Snap AR Partner, we work with brands, enterprises, educational institutions, creators, and innovation ecosystems to build immersive experiences that increase engagement, improve participation, and create measurable business impact.
 
-Our work spans immersive marketing campaigns, AI-powered experiences, browser-based AR platforms, interactive product visualization, virtual commerce, and enterprise XR solutions.
+Our mission is simple:
+
+> To make immersive technology accessible, impactful, and scalable for organizations around the world.
 
 ---
 
-## At a Glance
+# Innovation Driven By Technology
 
-### Innovation Driven by Technology. Measured by Impact.
+### Delivering Solutions That Move Beyond Traditional Screens
 
 <table>
 <tr>
-<td align="center">
+
+<td align="center" width="25%">
+
 <h3>AR</h3>
+
 Immersive Experiences
+
 </td>
-<td align="center">
+
+<td align="center" width="25%">
+
 <h3>WebAR</h3>
+
 Browser-Based Interaction
+
 </td>
-<td align="center">
+
+<td align="center" width="25%">
+
 <h3>CGI</h3>
+
 Visual Storytelling
+
 </td>
-<td align="center">
-<h3>AI</h3>
+
+<td align="center" width="25%">
+
+<h3>AI + XR</h3>
+
 Intelligent Experiences
+
 </td>
+
 </tr>
 </table>
 
+<br>
+
+<div align="center">
+
+<img src="./assets/impact-metrics.svg" width="100%" />
+
+</div>
+
 ---
 
-## Technology Beyond Screens
+# Technology Beyond Screens
 
 ### Transforming Emerging Technologies Into Real-World Business Outcomes
-
-<table>
-<tr>
-<td width="50%">
-
-### Augmented Reality
-
-Creating interactive experiences for:
-
-- Brand Campaigns
-- Product Launches
-- Events
-- Education
-- Entertainment
-- Commerce
-
-</td>
-
-<td width="50%">
-
-### WebAR
-
-Deploying app-free immersive experiences through:
-
-- QR Experiences
-- Product Visualization
-- Interactive Landing Pages
-- Browser-Based Campaigns
-- AR Commerce
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### CGI & 3D Production
-
-Producing:
-
-- Product Renders
-- Motion Graphics
-- Product Launch Assets
-- Marketing Visuals
-- Interactive Content
-
-</td>
-
-<td width="50%">
-
-### Virtual Try-On
-
-Building solutions for:
-
-- Fashion
-- Beauty
-- Eyewear
-- Jewelry
-- Accessories
-- Retail
-
-</td>
-</tr>
-</table>
-
----
