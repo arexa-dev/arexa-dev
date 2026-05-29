@@ -1818,10 +1818,4 @@ Through research, open source, education, partnerships, and community initiative
 
 </div>
 
----
 
-<div align="center">
-
-### Next Section → Careers, Culture, Team, Opportunities & Why Join Arexa
-
-</div>
