@@ -1,45 +1,34 @@
+
 <div align="center">
 
 # AREXA
 
 ### Building the Future of Immersive XR & AI Experiences
 
-Official Snap AR Partner delivering AR, VR, CGI, WebAR, AI & Spatial Computing solutions.
-
-<br>
-
-<a href="https://arexa.co">
-  <img src="https://img.shields.io/badge/Website-arexa.co-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
-<a href="https://linkedin.com/company/arexa-xr">
-  <img src="https://img.shields.io/badge/LinkedIn-Arexa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://instagram.com/arexa.xr">
-  <img src="https://img.shields.io/badge/Instagram-@arexa.xr-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="mailto:hello@arexa.co">
-  <img src="https://img.shields.io/badge/Email-hello@arexa.co-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<img src="https://img.shields.io/badge/Location-Noida%2C%20India-34A853?style=for-the-badge&logo=googlemaps&logoColor=white" />
+[Website](https://arexa.co) • [LinkedIn](https://linkedin.com/company/arexa-xr) • [Instagram](https://instagram.com/arexa.xr)
 
 </div>
 
 ---
 
-## 🚀 About Arexa
+Arexa is an immersive technology company focused on creating next-generation digital experiences through Augmented Reality, Virtual Reality, WebAR, CGI, Artificial Intelligence, and Spatial Computing.
 
-Arexa is an immersive technology company building next-generation AR, VR, WebAR, CGI, AI, and Spatial Computing experiences for brands, enterprises, and creators worldwide.
+As an Official Snap AR Partner, we help brands, enterprises, and creators transform ideas into immersive experiences that drive engagement, enhance customer interactions, and unlock new opportunities for growth.
 
-### Core Solutions
+### What We Build
 
-🔹 Augmented Reality (AR)  
-🔹 Virtual Reality (VR)  
-🔹 WebAR Experiences  
-🔹 Virtual Try-On Solutions  
-🔹 CGI & 3D Production  
-🔹 AI-Powered Experiences  
-🔹 Spatial Computing
+- Augmented Reality (AR) Experiences
+- Virtual Reality (VR) Solutions
+- WebAR Activations
+- Virtual Try-On Experiences
+- CGI & 3D Content
+- AI-Powered Experiences
+- Spatial Computing Solutions
+
+### Our Approach
+
+We combine creativity, engineering, and emerging technologies to build scalable experiences designed for the future of digital interaction.
+
+**Official Snap AR Partner**  
+**Noida, India**
+
